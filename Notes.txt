@@ -1,2 +1,6 @@
 true merge
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> example
 
