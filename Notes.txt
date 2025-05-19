@@ -1,4 +1,5 @@
 Hello from Notes.txt file
 Hello from branch example
+Hello from example true commit 
 
 Hello from true merge
